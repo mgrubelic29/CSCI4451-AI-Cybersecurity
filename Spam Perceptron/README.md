@@ -1,6 +1,6 @@
-Matthew Grubelic 
+**Matthew Grubelic 
 CSCI 4451 01 S20 
-Lab 2 - Perceptron for Phish Detection 
+Lab 2 - Perceptron for Phish Detection **
 
 
 
