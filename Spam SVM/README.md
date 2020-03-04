@@ -8,7 +8,7 @@ Lab 3 - Support Vector Machine (SVM) for Phish Detection**
 
 **Dataset:** https://archive.ics.uci.edu/ml/datasets/phishing+websites
 
-**Dataset Documentation:** Found in this folder
+**Dataset Documentation:** Found in this folder under "Phishing Website Features.docx"
 	<br/>- also found on its original website, https://archive.ics.uci.edu/ml/machine-learning-databases/00327/
 	
 **Code:** 	(CODE IN BOTH FILES FUNCTION IN THE SAME WAY) 	<br/>
